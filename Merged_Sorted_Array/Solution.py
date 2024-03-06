@@ -15,9 +15,11 @@ class Solution:
             else:
                 nums1[m + n - 1] = nums2[n - 1]
                 n -= 1
-        while n > 0:
-            nums1[m + n - 1] = nums2[n - 1]
-            n -= 1
+        # while n > 0:
+            # nums1[m + n - 1] = nums2[n - 1]
+            # n -= 1
+        if n > 0:
+            nums1[:n] = nums2[:n]
 
         return nums1
 
