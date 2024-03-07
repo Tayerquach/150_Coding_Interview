@@ -11,7 +11,8 @@ class RemoveDuplicatesFromSortedArray(unittest.TestCase):
     def test_case(self):
         s = Solution()
         for input, result in [([1,1,2], 2),
-                              ([0,0,1,1,1,2,2,3,3,4], 5)]:
+                              ([0,0,1,1,1,2,2,3,3,4], 5),
+                              ([1], 1)]:
             self.assertEqual(s.removeDuplicates(input), result)
 
 if __name__ == "__main__":
