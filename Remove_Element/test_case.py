@@ -12,7 +12,8 @@ class RemoveElement(unittest.TestCase):
     def test_case(self):
         s = Solution()
         for input, result in [(([3,2,2,3], 3), 2),
-                              (([0,1,2,2,3,0,4,2], 2), 5)]:
+                              (([0,1,2,2,3,0,4,2], 2), 5),
+                              (([2], 3), 1)]:
     
             self.assertEqual(s.removeElement(input[0], input[1]), result) 
 
