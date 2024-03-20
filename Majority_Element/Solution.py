@@ -1,5 +1,9 @@
 class Solution:
     def majorityElement(self, nums) -> int:
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
         vote = 0
         majority = None
 
