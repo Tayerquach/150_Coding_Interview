@@ -1,6 +1,6 @@
 # 150_Coding_Interview
 
-# List of Question
+# List of Questions
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Easy</summary>
