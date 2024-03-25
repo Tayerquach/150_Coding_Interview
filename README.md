@@ -21,5 +21,7 @@
     </a></li>
     <li><a href="#Longest_Common_Prefix">Longest Common Prefix
     </a></li>
+    <li><a href="#First_Occurence_in_a_String">Find the Index of the First Occurrence in a String
+    </a></li>
   </ol>
 </details>
