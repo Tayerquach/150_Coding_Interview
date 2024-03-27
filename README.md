@@ -27,5 +27,8 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150">Is Subsequence
     </a></li>
+    </a></li>
+    <li><a href="https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150">Ransom Note
+    </a></li>
   </ol>
 </details>
