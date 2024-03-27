@@ -7,13 +7,15 @@ class Solution:
         """
         # Create a hashmap to store the characters and their frequences
         m_dict = {}
+
+        # Iterate through the magazine and count characters
         for char in magazine:
             if char not in m_dict:
                 m_dict[char] = 1
             else:
                 m_dict[char] += 1
 
-        # Check 
+        # Iterate through the ransom note and check character counts 
         for c in ransomNote:
             if c not in m_dict or m_dict[c] == 0:
                 return False

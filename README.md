@@ -30,5 +30,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150">Ransom Note
     </a></li>
+    <li><a href="https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150">Isomorphic Strings
+    </a></li>
   </ol>
 </details>
