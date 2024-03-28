@@ -32,5 +32,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150">Isomorphic Strings
     </a></li>
+    <li><a href="https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150">Word Pattern
+    </a></li>
   </ol>
 </details>
