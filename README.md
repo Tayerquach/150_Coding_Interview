@@ -38,5 +38,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/two-sum/?envType=study-plan-v2&envId=top-interview-150">Two Sum
     </a></li>
+    <li><a href="https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150">Happy Number
+    </a></li>
   </ol>
 </details>
