@@ -40,5 +40,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150">Happy Number
     </a></li>
+    <li><a href="https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150">Contains Duplicates II
+    </a></li>
   </ol>
 </details>
