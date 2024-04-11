@@ -1,6 +1,7 @@
 # 228. Summary Ranges
 ![Static Badge](https://img.shields.io/badge/Easy-gray)
 ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 You are given a **sorted unique** integer array `nums`.
 
 A **range** `[a,b]` is the set of all integers from `a` to `b` (inclusive).
