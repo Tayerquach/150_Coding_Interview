@@ -42,5 +42,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150">Contains Duplicates II
     </a></li>
+    <li><a href="https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150">Summary Ranges
+    </a></li>
   </ol>
 </details>
