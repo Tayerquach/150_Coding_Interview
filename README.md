@@ -46,5 +46,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/valid-parentheses/description/?envType=study-plan-v2&envId=top-interview-150">Valid Parentheses
     </a></li>
+    <li><a href="https://leetcode.com/problems/linked-list-cycle/?envType=study-plan-v2&envId=top-interview-150">Linked List Cycle
+    </a></li>
   </ol>
 </details>
