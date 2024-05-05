@@ -48,5 +48,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/linked-list-cycle/?envType=study-plan-v2&envId=top-interview-150">Linked List Cycle
     </a></li>
+    <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150">Merge Two Linked Lists
+    </a></li>
   </ol>
 </details>
