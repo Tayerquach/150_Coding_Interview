@@ -50,5 +50,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-interview-150">Merge Two Linked Lists
     </a></li>
+    <li><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150">Maximum Depth Of Binary Tree
+    </a></li>
   </ol>
 </details>

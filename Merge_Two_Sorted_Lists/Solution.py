@@ -12,9 +12,6 @@ class Solution:
         rtype: ListNode
         """
 
-        if not list1: return list2
-        if not list2: return list1
-
         current = dummy = ListNode(0)
 
         while list1 and list2:
