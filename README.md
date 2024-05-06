@@ -52,5 +52,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150">Maximum Depth Of Binary Tree
     </a></li>
+    <li><a href="https://leetcode.com/problems/same-tree/description/?envType=study-plan-v2&envId=top-interview-150">Same Tree
+    </a></li>
   </ol>
 </details>
