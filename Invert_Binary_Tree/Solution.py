@@ -13,11 +13,9 @@ class Solution:
         """
         queue = [root]
         while len(queue) > 0:
-            current_value = queue.pop(0)
-            currentNode = TreeNode(current_value)
-
+            currentNode = queue.pop(0)
             if currentNode is not None:
                 currentNode.left, currentNode.right = currentNode.right, currentNode.left
-            queue.append(currentNode.left)
-            queue.append(currentNode.right)
+                queue.append(currentNode.left)
+                queue.append(currentNode.right)
         return root

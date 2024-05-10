@@ -12,6 +12,26 @@ def build_tree(index, values):
         return node
     return None
 
+def isSameTree(p: TreeNode, q: TreeNode) -> bool:
+        """
+        dtype p: TreeNode
+        dtype q: TreeNode
+        rtype: bool
+        """
+        if not p and not q: #If p and q are Null
+            return True
+
+        elif not p and q: #If p is Null and q is not Null
+            return False
+
+        elif p and not q: #If p is not Null and q is Null
+            return False
+        
+        elif p.val != q.val: 
+            return False
+
+        return isSameTree(p.left, q.left) and isSameTree(p.right, q.right)
+
 class Invert_Binary_Tree(unittest.TestCase):
     def setUp(self) -> None:
         pass
@@ -21,12 +41,14 @@ class Invert_Binary_Tree(unittest.TestCase):
 
     def test_case(self):
         s = Solution()
-        for input, result in [([4,2,7,1,3,6,9], [4,7,2,9,6,3,1]),
-                              ([2,1,3], [2,3,1]),
-                              ([], [])]:
+        for input, result, flag in [([4,2,7,1,3,6,9], [4,7,2,9,6,3,1], True),
+                              ([2,1,3], [2,3,1], True),
+                              ([], [], True)]:
             root = build_tree(0, input)
+            invert_tree = s.invertTree(root)
             expected_result = build_tree(0, result)
-            self.assertEqual(s.invertTree(root), expected_result)
+            expected_flag = isSameTree(invert_tree, expected_result)
+            self.assertEqual(expected_flag, flag)
 
 if __name__ == "__main__":
     unittest.main()

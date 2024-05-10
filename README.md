@@ -56,5 +56,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/invert-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150">Invert Binary Tree
     </a></li>
+    <li><a href="https://leetcode.com/problems/symmetric-tree/?envType=study-plan-v2&envId=top-interview-150">Symmetric Tree
+    </a></li>
   </ol>
 </details>
