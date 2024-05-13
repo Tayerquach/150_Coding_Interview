@@ -62,5 +62,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=study-plan-v2&envId=top-interview-150">Count Complete Tree Nodes
     </a></li>
+    <li><a href="https://leetcode.com/problems/average-of-levels-in-binary-tree/?envType=study-plan-v2&envId=top-interview-150">Average Of Levels in Binary Tree
+    </a></li>
   </ol>
 </details>
