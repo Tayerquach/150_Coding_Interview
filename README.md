@@ -60,5 +60,7 @@
     </a></li>
     <li><a href="https://leetcode.com/problems/path-sum/description/?envType=study-plan-v2&envId=top-interview-150">Path Sum
     </a></li>
+    <li><a href="https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=study-plan-v2&envId=top-interview-150">Count Complete Tree Nodes
+    </a></li>
   </ol>
 </details>
